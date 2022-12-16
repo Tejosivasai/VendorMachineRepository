@@ -100,12 +100,7 @@ namespace VendingMachine
                 }                
             }
             
-            /*Console.WriteLine("No Of 5 Pences : "+ change.NoOfFivePences);
-            Console.WriteLine("No Of 10 Pences : " + change.NoOfTenPences);
-            Console.WriteLine("No Of 20 Pences : " + change.NoOfTwentyPences);
-            Console.WriteLine("No Of 50 Pences : " + change.NoOfFiftyPences);
-            Console.WriteLine("No Of 1 Pounds : " + change.NoOfOnePounds);
-            Console.WriteLine("No Of 2 Pounds : " + change.NoOfTwoPounds);            */
+           
         }
     }
 }
